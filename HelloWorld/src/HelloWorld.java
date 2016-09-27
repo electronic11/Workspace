@@ -64,6 +64,7 @@ public class HelloWorld
 	 */
 	public static void main(String args[]) throws IOException
 	{
+		System.out.println("modificato da Lord Miscrit");
 //		LocalDate oggi=LocalDate.now();
 //		DateFormatSymbols dfs = new DateFormatSymbols(Locale.ITALY);
 //		GregorianCalendar gc = new GregorianCalendar();
